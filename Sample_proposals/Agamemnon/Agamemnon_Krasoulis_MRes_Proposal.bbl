@@ -1,0 +1,144 @@
+\begin{thebibliography}{10}
+
+\bibitem{Georgopoulos1982}
+{A. P. Georgopoulos, J. F. Kalaska, R. Caminiti, J. T. Massey}, ``{On the
+  relations between the direction of two-dimensional arm movements and cell
+  discharge in primate motor cortex.},'' {\em The Journal of neuroscience: the
+  official journal of the Society for Neuroscience}, vol.~2, pp.~1527--37, Nov.
+  1982.
+
+\bibitem{Evarts1968}
+E.~V. Evarts, ``{Relation of pyramidal tract activity to force exerted during
+  voluntary movement.},'' {\em Journal of neurophysiology}, vol.~31,
+  pp.~14--27, Jan. 1968.
+
+\bibitem{Paninski2002}
+M.~D. Serruya, N.~G. Hatsopoulos, L.~Paninski, M.~R. Fellows, and J.~P.
+  Donoghue, ``{Instant neural control of a movement signal.},'' {\em Nature},
+  vol.~416, pp.~141--2, Mar. 2002.
+
+\bibitem{Carmena2003}
+J.~M. Carmena, M.~A. Lebedev, R.~E. Crist, J.~E. O'Doherty, D.~M. Santucci,
+  D.~F. Dimitrov, P.~G. Patil, C.~S. Henriquez, and M.~A.~L. Nicolelis,
+  ``{Learning to control a brain-machine interface for reaching and grasping by
+  primates.},'' {\em PLoS biology}, vol.~1, p.~E42, Nov. 2003.
+
+\bibitem{Hochberg2006}
+L.~R. Hochberg, M.~D. Serruya, G.~M. Friehs, J.~a. Mukand, M.~Saleh, A.~H.
+  Caplan, A.~Branner, D.~Chen, R.~D. Penn, and J.~P. Donoghue, ``{Neuronal
+  ensemble control of prosthetic devices by a human with tetraplegia.},'' {\em
+  Nature}, vol.~442, pp.~164--71, July 2006.
+
+\bibitem{Velliste2008}
+M.~Velliste, S.~Perel, M.~C. Spalding, A.~S. Whitford, and A.~B. Schwartz,
+  ``{Cortical control of a prosthetic arm for self-feeding.},'' {\em Nature},
+  vol.~453, pp.~1098--101, June 2008.
+
+\bibitem{Ethier2012}
+C.~Ethier, E.~R. Oby, M.~J. Bauman, and L.~E. Miller, ``{Restoration of grasp
+  following paralysis through brain-controlled stimulation of muscles.},'' {\em
+  Nature}, vol.~485, pp.~368--71, May 2012.
+
+\bibitem{Peckham2001}
+P.~H. Peckham, M.~W. Keith, K.~L. Kilgore, J.~H. Grill, K.~S. Wuolle, G.~B.
+  Thrope, P.~Gorman, J.~Hobby, M.~J. Mulcahey, S.~Carroll, V.~R. Hentz, and
+  A.~Wiegner, ``{Efficacy of an implanted neuroprosthesis for restoring hand
+  grasp in tetraplegia: a multicenter study.},'' {\em Archives of physical
+  medicine and rehabilitation}, vol.~82, pp.~1380--8, Oct. 2001.
+
+\bibitem{Linderman2008}
+M.~Linderman, G.~Santhanam, C.~Kemere, V.~Gilja, S.~O'Driscoll, B.~Yu,
+  A.~Afshar, S.~Ryu, K.~Shenoy, and T.~Meng, ``{Signal Processing Challenges
+  for Neural Prostheses},'' {\em IEEE Signal Processing Magazine}, vol.~25,
+  no.~1, pp.~18--28, 2008.
+
+\bibitem{Hochberg2012}
+L.~R. Hochberg, D.~Bacher, B.~Jarosiewicz, N.~Y. Masse, J.~D. Simeral,
+  J.~Vogel, S.~Haddadin, J.~Liu, S.~S. Cash, P.~van~der Smagt, and J.~P.
+  Donoghue, ``{Reach and grasp by people with tetraplegia using a neurally
+  controlled robotic arm.},'' {\em Nature}, vol.~485, pp.~372--5, May 2012.
+
+\bibitem{Nazarpour2012}
+K.~Nazarpour, C.~Ethier, L.~Paninski, J.~M. Rebesco, R.~C. Miall, and L.~E.
+  Miller, ``{EMG prediction from motor cortical recordings via a nonnegative
+  point-process filter.},'' {\em IEEE transactions on bio-medical engineering},
+  vol.~59, pp.~1829--38, July 2012.
+
+\bibitem{Pohlmeyer2007}
+E.~A. Pohlmeyer, S.~A. Solla, E.~J. Perreault, and L.~E. Miller, ``{Prediction
+  of upper limb muscle activity from motor cortical discharge during
+  reaching.},'' {\em Journal of neural engineering}, vol.~4, pp.~369--79, Dec.
+  2007.
+
+\bibitem{Wu2006}
+W.~Wu, Y.~Gao, E.~Bienenstock, J.~P. Donoghue, and M.~J. Black, ``{Bayesian
+  population decoding of motor cortical activity using a Kalman filter.},''
+  {\em Neural computation}, vol.~18, pp.~80--118, Jan. 2006.
+
+\bibitem{Wu2009}
+W.~Wu, J.~E. Kulkarni, N.~G. Hatsopoulos, and L.~Paninski, ``{Neural decoding
+  of hand motion using a linear state-space model with hidden states.},'' {\em
+  IEEE transactions on neural systems and rehabilitation engineering : a
+  publication of the IEEE Engineering in Medicine and Biology Society},
+  vol.~17, pp.~370--8, Aug. 2009.
+
+\bibitem{Flint2012}
+R.~D. Flint, C.~Ethier, E.~R. Oby, L.~E. Miller, and M.~W. Slutzky, ``{Local
+  field potentials allow accurate decoding of muscle activity.},'' {\em Journal
+  of neurophysiology}, vol.~108, pp.~18--24, July 2012.
+
+\bibitem{Flint2012a}
+R.~D. Flint, E.~W. Lindberg, L.~R. Jordan, L.~E. Miller, and M.~W. Slutzky,
+  ``{Accurate decoding of reaching movements from field potentials in the
+  absence of spikes.},'' {\em Journal of neural engineering}, vol.~9,
+  p.~046006, Aug. 2012.
+
+\bibitem{Shin2012}
+D.~Shin, H.~Watanabe, H.~Kambara, A.~Nambu, T.~Isa, Y.~Nishimura, and Y.~Koike,
+  ``{Prediction of muscle activities from electrocorticograms in primary motor
+  cortex of primates.},'' {\em PloS one}, vol.~7, p.~e47992, Jan. 2012.
+
+\bibitem{Rickert2005}
+J.~Rickert, S.~C. de~Oliveira, E.~Vaadia, A.~Aertsen, S.~Rotter, and
+  C.~Mehring, ``{Encoding of movement direction in different frequency ranges
+  of motor cortical local field potentials.},'' {\em The Journal of
+  neuroscience: the official journal of the Society for Neuroscience}, vol.~25,
+  pp.~8815--24, Sept. 2005.
+
+\bibitem{Sato2001}
+M.~Sato, ``{Online Model Selection Based on the Variational Bayes},'' {\em
+  Neural Computation}, vol.~13, pp.~1649--1681, July 2001.
+
+\bibitem{Ting2010}
+J.-A. Ting, A.~D'Souza, S.~Vijayakumar, and S.~Schaal, ``{Efficient learning
+  and feature selection in high-dimensional regression.},'' {\em Neural
+  computation}, vol.~22, pp.~831--86, Apr. 2010.
+
+\bibitem{Tibshirani1996}
+R.~Tibshirani, ``{Regression shrinkage and selection via the lasso: a
+  retrospective},'' {\em Journal of the Royal Statistical Society: Series B
+  (Statistical Methodology)}, vol.~73, pp.~273--282, June 2011.
+
+\bibitem{Zou2005}
+H.~Zou and T.~Hastie, ``{Regularization and variable selection via the elastic
+  net},'' {\em Journal of the Royal Statistical Society: Series B (Statistical
+  Methodology)}, vol.~67, pp.~301--320, Apr. 2005.
+
+\bibitem{Sjostrand2012}
+K.~Sj\"{o}strand, L.~Clemmensen, R.~Larsen, and B.~Ersb\o~ll, ``{SpaSM - A
+  Matlab Toolbox for Sparse Statistical Modeling},'' {\em J. Stat. Software},
+  vol.~VV, no.~Ii, 2012.
+
+\bibitem{Sato2009}
+M.~Sato, ``Variational {B}ayesian {S}parse {R}egression toolbox. {A}{T}{R}
+  {C}omputational {N}euroscience {L}aboratories.'' Available:
+  \url{http://www.cns.atr.jp/cbi/sparse_estimation/sato/VBSR.html}.
+\newblock Accessed: 2012-04-06.
+
+\bibitem{vblstool}
+J.~Ting, ``Variational {B}ayesian {L}east {S}quares toolbox. {C}{L}{M}{C}
+  {C}omputational {L}earning and {M}otor {C}ontrol {L}ab.'' Available:
+  \url{http://www-clmc.usc.edu/software/vbls/}.
+\newblock Accessed: 2012-04-06.
+
+\end{thebibliography}
